@@ -36,7 +36,7 @@
   			return false;
   		else
   			return pal(s.substring(1, high));
-  	  }
+  	  	}
   	  
  //Factorial method
   
